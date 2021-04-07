@@ -8,6 +8,7 @@ __pycache__/
 *.py[cod]
 *$py.class
 /__pycache__
+*__pycache__*
 
 # Node artifact files
 node_modules/
@@ -60,6 +61,8 @@ secrets.json
 
 # django staticfiles
 /static
+*static*
 
 # django mediafiles
 /media
+*media*
